@@ -1,0 +1,21 @@
+{
+  "bindings": [
+    {
+      "type": "eventHubTrigger",
+      "name": "eventHubMessages",
+      "direction": "in",
+      "path": "ehAfterAsa",
+      "connection": "eh171124b_automated",
+      "cardinality": "one",
+      "consumerGroup": "cg3"
+    },
+    {
+      "type": "table",
+      "name": "outputTable",
+      "tableName": "outTable",
+      "connection": "storage171124a_STORAGE",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}

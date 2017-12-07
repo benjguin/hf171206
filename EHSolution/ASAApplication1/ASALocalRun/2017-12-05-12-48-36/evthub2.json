@@ -1,0 +1,224 @@
+﻿{
+    "deviceid": 2,
+    "sendtime": "2017-12-05T07:14:58.6850000",
+    "measure1": 93,
+    "sendtimestamp": 1512458098685.1895,
+    "windowtime": "2017-12-05T07:15:00.0000000Z"
+},
+{
+    "deviceid": 0,
+    "sendtime": "2017-12-05T07:14:58.6850000",
+    "measure1": 38,
+    "sendtimestamp": 1512458098685.1895,
+    "windowtime": "2017-12-05T07:15:00.0000000Z"
+},
+{
+    "deviceid": 5,
+    "sendtime": "2017-12-05T07:14:58.6850000",
+    "measure1": 51,
+    "sendtimestamp": 1512458098685.1895,
+    "windowtime": "2017-12-05T07:15:00.0000000Z"
+},
+{
+    "deviceid": 4,
+    "sendtime": "2017-12-05T07:14:58.6850000",
+    "measure1": 18,
+    "sendtimestamp": 1512458098685.1895,
+    "windowtime": "2017-12-05T07:15:00.0000000Z"
+},
+{
+    "deviceid": 3,
+    "sendtime": "2017-12-05T07:14:58.6850000",
+    "measure1": 71,
+    "sendtimestamp": 1512458098685.1895,
+    "windowtime": "2017-12-05T07:15:00.0000000Z"
+},
+{
+    "deviceid": 6,
+    "sendtime": "2017-12-05T07:14:58.6850000",
+    "measure1": 49,
+    "sendtimestamp": 1512458098685.1895,
+    "windowtime": "2017-12-05T07:15:00.0000000Z"
+},
+{
+    "deviceid": 1,
+    "sendtime": "2017-12-05T07:14:58.6850000",
+    "measure1": 81,
+    "sendtimestamp": 1512458098685.1895,
+    "windowtime": "2017-12-05T07:15:00.0000000Z"
+},
+{
+    "deviceid": 7,
+    "sendtime": "2017-12-05T07:14:58.6850000",
+    "measure1": 84,
+    "sendtimestamp": 1512458098685.1895,
+    "windowtime": "2017-12-05T07:15:00.0000000Z"
+},
+{
+    "deviceid": 2,
+    "sendtime": "2017-12-05T07:15:09.6000000",
+    "measure1": 33,
+    "sendtimestamp": 1512458109600.3208,
+    "windowtime": "2017-12-05T07:15:10.0000000Z"
+},
+{
+    "deviceid": 0,
+    "sendtime": "2017-12-05T07:15:09.6000000",
+    "measure1": 85,
+    "sendtimestamp": 1512458109600.3208,
+    "windowtime": "2017-12-05T07:15:10.0000000Z"
+},
+{
+    "deviceid": 5,
+    "sendtime": "2017-12-05T07:15:09.6000000",
+    "measure1": 51,
+    "sendtimestamp": 1512458109600.3208,
+    "windowtime": "2017-12-05T07:15:10.0000000Z"
+},
+{
+    "deviceid": 4,
+    "sendtime": "2017-12-05T07:15:09.6000000",
+    "measure1": 83,
+    "sendtimestamp": 1512458109600.3208,
+    "windowtime": "2017-12-05T07:15:10.0000000Z"
+},
+{
+    "deviceid": 3,
+    "sendtime": "2017-12-05T07:15:09.6000000",
+    "measure1": 63,
+    "sendtimestamp": 1512458109600.3208,
+    "windowtime": "2017-12-05T07:15:10.0000000Z"
+},
+{
+    "deviceid": 6,
+    "sendtime": "2017-12-05T07:15:09.6000000",
+    "measure1": 98,
+    "sendtimestamp": 1512458109600.3208,
+    "windowtime": "2017-12-05T07:15:10.0000000Z"
+},
+{
+    "deviceid": 1,
+    "sendtime": "2017-12-05T07:15:09.6000000",
+    "measure1": 59,
+    "sendtimestamp": 1512458109600.3208,
+    "windowtime": "2017-12-05T07:15:10.0000000Z"
+},
+{
+    "deviceid": 7,
+    "sendtime": "2017-12-05T07:15:09.6000000",
+    "measure1": 39,
+    "sendtimestamp": 1512458109600.3208,
+    "windowtime": "2017-12-05T07:15:10.0000000Z"
+},
+{
+    "deviceid": 2,
+    "sendtime": "2017-12-05T07:15:19.4350000",
+    "measure1": 46,
+    "sendtimestamp": 1512458119435.2212,
+    "windowtime": "2017-12-05T07:15:20.0000000Z"
+},
+{
+    "deviceid": 0,
+    "sendtime": "2017-12-05T07:15:19.4350000",
+    "measure1": 71,
+    "sendtimestamp": 1512458119435.2212,
+    "windowtime": "2017-12-05T07:15:20.0000000Z"
+},
+{
+    "deviceid": 5,
+    "sendtime": "2017-12-05T07:15:19.4350000",
+    "measure1": 57,
+    "sendtimestamp": 1512458119435.2212,
+    "windowtime": "2017-12-05T07:15:20.0000000Z"
+},
+{
+    "deviceid": 4,
+    "sendtime": "2017-12-05T07:15:19.4350000",
+    "measure1": 77,
+    "sendtimestamp": 1512458119435.2212,
+    "windowtime": "2017-12-05T07:15:20.0000000Z"
+},
+{
+    "deviceid": 3,
+    "sendtime": "2017-12-05T07:15:19.4350000",
+    "measure1": 6,
+    "sendtimestamp": 1512458119435.2212,
+    "windowtime": "2017-12-05T07:15:20.0000000Z"
+},
+{
+    "deviceid": 6,
+    "sendtime": "2017-12-05T07:15:19.4350000",
+    "measure1": 83,
+    "sendtimestamp": 1512458119435.2212,
+    "windowtime": "2017-12-05T07:15:20.0000000Z"
+},
+{
+    "deviceid": 1,
+    "sendtime": "2017-12-05T07:15:19.4350000",
+    "measure1": 86,
+    "sendtimestamp": 1512458119435.2212,
+    "windowtime": "2017-12-05T07:15:20.0000000Z"
+},
+{
+    "deviceid": 7,
+    "sendtime": "2017-12-05T07:15:19.4350000",
+    "measure1": 34,
+    "sendtimestamp": 1512458119435.2212,
+    "windowtime": "2017-12-05T07:15:20.0000000Z"
+},
+{
+    "deviceid": 2,
+    "sendtime": "2017-12-05T07:15:24.9560000",
+    "measure1": 16,
+    "sendtimestamp": 1512458124956.2046,
+    "windowtime": "2017-12-05T07:15:30.0000000Z"
+},
+{
+    "deviceid": 0,
+    "sendtime": "2017-12-05T07:15:24.9240000",
+    "measure1": 22,
+    "sendtimestamp": 1512458124924.97,
+    "windowtime": "2017-12-05T07:15:30.0000000Z"
+},
+{
+    "deviceid": 5,
+    "sendtime": "2017-12-05T07:15:24.9710000",
+    "measure1": 75,
+    "sendtimestamp": 1512458124971.8193,
+    "windowtime": "2017-12-05T07:15:30.0000000Z"
+},
+{
+    "deviceid": 4,
+    "sendtime": "2017-12-05T07:15:24.9710000",
+    "measure1": 45,
+    "sendtimestamp": 1512458124971.8193,
+    "windowtime": "2017-12-05T07:15:30.0000000Z"
+},
+{
+    "deviceid": 3,
+    "sendtime": "2017-12-05T07:15:24.9560000",
+    "measure1": 74,
+    "sendtimestamp": 1512458124956.2046,
+    "windowtime": "2017-12-05T07:15:30.0000000Z"
+},
+{
+    "deviceid": 6,
+    "sendtime": "2017-12-05T07:15:24.9710000",
+    "measure1": 93,
+    "sendtimestamp": 1512458124971.8193,
+    "windowtime": "2017-12-05T07:15:30.0000000Z"
+},
+{
+    "deviceid": 1,
+    "sendtime": "2017-12-05T07:15:24.9240000",
+    "measure1": 48,
+    "sendtimestamp": 1512458124924.97,
+    "windowtime": "2017-12-05T07:15:30.0000000Z"
+},
+{
+    "deviceid": 7,
+    "sendtime": "2017-12-05T07:15:24.9710000",
+    "measure1": 78,
+    "sendtimestamp": 1512458124971.8193,
+    "windowtime": "2017-12-05T07:15:30.0000000Z"
+}

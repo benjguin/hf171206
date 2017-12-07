@@ -1,0 +1,8 @@
+﻿{
+  "InputAlias": "evthub",
+  "Type": "Data Stream",
+  "Format": "Json",
+  "FilePath": "C:\\dev\\_git\\vsonline\\bengui\\delijn1712\\@benjguin\\AzureStreamAnalytics\\test_data.json",
+  "Sample": "{\r\n  \"deviceId\": 0,\r\n  \"measure1\": 61,\r\n  \"sendTime\": \"2017-12-05 07:14:51.074\",\r\n  \"sendTimestamp\": 1512458091074.9585\r\n}",
+  "ScriptType": "InputMock"
+}

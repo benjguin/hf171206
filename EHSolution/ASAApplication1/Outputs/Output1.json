@@ -1,0 +1,25 @@
+﻿{
+  "EventHubProperties": {
+    "EventHubName": "eh171124b",
+    "PartitionKey": "deviceId",
+    "ServiceBusNamespace": "ns171124a",
+    "SharedAccessPolicyKey": null,
+    "SharedAccessPolicyName": "RootManageSharedAccessKey"
+  },
+  "BlobStorageProperties": null,
+  "SQLDatabaseProperties": null,
+  "TableStorageProperties": null,
+  "ServiceBusQueueProperties": null,
+  "ServiceBusTopicProperties": null,
+  "DocumentDbProperties": null,
+  "DataSourceCredentialDomain": "###obfuscated###.StreamAnalyticsCredential",
+  "Name": "evthub2",
+  "DataSourceType": "Event Hub",
+  "Serialization": {
+    "Encoding": "UTF8",
+    "Type": "Json",
+    "FieldDelimiter": null,
+    "Format": "Array"
+  },
+  "ScriptType": "Output"
+}

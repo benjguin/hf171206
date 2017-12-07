@@ -1,0 +1,20 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "ns171124a_send1_EVENTHUB": "Endpoint=sb://###obfuscated###.servicebus.windows.net/;SharedAccessKeyName=send1;SharedAccessKey=###obfuscated###;EntityPath=eh171124a",
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ns171124a_RootManageSharedAccessKey_EVENTHUB": "Endpoint=sb://###obfuscated###.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=###obfuscated###;EntityPath=eh171124b",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "###obfuscated###",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=storagefun171124a;AccountKey=###obfuscated###",
+    "eh171124a_automated": "Endpoint=sb://###obfuscated###.servicebus.windows.net/;SharedAccessKeyName=receivers;SharedAccessKey=###obfuscated###;EntityPath=eh171124a",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=storagefun171124a;AccountKey=###obfuscated###",
+    "WEBSITE_CONTENTSHARE": "fun171124a8551",
+    "WEBSITE_SITE_NAME": "fun171124a",
+    "ns171124a_listen1_EVENTHUB": "Endpoint=sb://###obfuscated###.servicebus.windows.net/;SharedAccessKeyName=listen1;SharedAccessKey=###obfuscated###;EntityPath=eh171124a",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storagefun171124a;AccountKey=###obfuscated###"
+  }
+}
