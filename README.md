@@ -278,7 +278,7 @@ Sample input
 {"deviceId":7,"measure1":41,"sendTime":"2017-12-05 12:50:53.426","sendTimestamp":1512478253427}
 ```
 
-The stream Analytics query is: 
+The stream Analytics query is (inspired by [Azure Stream Analytics documentation: Query examples for common Stream Analytics usage patterns](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-stream-analytics-query-patterns#query-example-find-the-last-event-in-a-window)): 
 
 ```sql
 WITH LastInWindow AS
